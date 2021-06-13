@@ -7,13 +7,12 @@
 
 Dynamic Data Structure. Linked list is a dynamic data structure so it can grow and shrink at runtime by allocating and deallocating memeory. ...
 Insertion and Deletion. Insertion and deletion of nodes are really easier. ...
+Advantages Over List:
+  No Memory Wastage
 
-No Memory Wastage. ...
+  Implementation
 
-Implementation. ...
+  Memory Usage
+  Traversal
 
-Memory Usage.
-
-Traversal. ...
-
-Reverse Traversing.
+  Reverse Traversing
