@@ -14,3 +14,17 @@ Advantages:
    * The traversal of this doubly linked list is bidirectional which is not possible in a singly linked list.
     
    *  Deletion of nodes is easy as compared to a Singly Linked List. A singly linked list deletion requires a pointer to the node and previous node to be deleted but in the doubly linked list, it only required the pointer which is to be deleted.
+
+
+Applications:
+
+
+    - A music player which has next and prev buttons.
+    
+    - Represent a deck of cards in a game.
+    
+    - The browser cache which allows you to hit the BACK-FORWARD pages.
+    
+    - Applications that have a Most Recently Used list (a linked list of file names)
+    
+    - Undo-Redo functionality
