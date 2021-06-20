@@ -5,8 +5,8 @@
 
 Applications:
 
-Store hierarchical data, like folder structure, organization structure, XML/HTML data.
-Binary Search Tree is a tree that allows fast search, insert, delete on a sorted data. It also allows finding closest item
-Heap is a tree data structure which is implemented using arrays and used to implement priority queues.
-B-Tree and B+ Tree : They are used to implement indexing in databases.
-Syntax Tree: Used in Compilers.
+* Store hierarchical data, like folder structure, organization structure, XML/HTML data.
+* Binary Search Tree is a tree that allows fast search, insert, delete on a sorted data. It also allows finding closest item
+* Heap is a tree data structure which is implemented using arrays and used to implement priority queues.
+* B-Tree and B+ Tree : They are used to implement indexing in databases.
+* Syntax Tree: Used in Compilers.
