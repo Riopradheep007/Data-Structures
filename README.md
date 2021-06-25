@@ -1,3 +1,3 @@
 # Data-Structures
 
-Data Structure is used for storing the data.
+A **data structure** is a particular way of organizing data in a computer so that it can be used effectively
