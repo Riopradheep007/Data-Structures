@@ -27,7 +27,7 @@ class Binary_Search_Tree:
         
     def add_child(self,data):
          #add small aa to the left
-        if data<self.data:
+        if data self.data:
             if self.left:
                 self.left.add_child(data)
             else:
