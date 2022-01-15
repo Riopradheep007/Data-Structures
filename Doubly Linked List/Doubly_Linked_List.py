@@ -50,9 +50,12 @@ class DoublyLinkedList:
         return count
 
     def insert_at_begining(self, data):
-        node = Node(data, self.head, None)
-        self.head.prev = node
-        self.head = node
+        if self.head != None:
+            node = Node(data, self.head, None)
+            self.head.prev = node
+            self.head = node
+        else:
+            self.head =  Node(data,None,None)
 
     def insert_at_end(self, data):
         if self.head is None:
